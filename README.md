@@ -35,13 +35,13 @@
 ###### o	Used the ExtraTreesClassifier to evaluate the importance of different features in predicting wine quality.
 ##### 5.	Modeling:
 ###### o	Built and evaluated various classification models, including:
-####### 	Random Forest Classifier
-####### 	Logistic Regression
-####### 	K-Nearest Neighbors (KNN)
-####### 	Support Vector Classifier (SVC)
-####### 	Decision Tree Classifier
-####### 	Gaussian Naive Bayes (GNB)
-####### 	XGBoost Classifier
+###### 	Random Forest Classifier
+###### 	Logistic Regression
+###### 	K-Nearest Neighbors (KNN)
+###### 	Support Vector Classifier (SVC)
+###### 	Decision Tree Classifier
+###### 	Gaussian Naive Bayes (GNB)
+###### 	XGBoost Classifier
 ###### o	Compared the performance of these models using accuracy scores and confusion matrices.
 6.	Results:
 o	Achieved the highest accuracy with the Random Forest Classifier at approximately 89.58%.
