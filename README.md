@@ -7,9 +7,9 @@
 
 #### Dataset: 
 ###### The dataset used for this project includes chemical properties of different wine samples and their corresponding quality ratings. The dataset contains 1599 observations with 12 features:
-###### •	fixed acidity
-###### •	volatile acidity
-###### •	citric acid
+######    •	fixed acidity
+######    •	volatile acidity
+######    •	citric acid
 ###### •	residual sugar
 ###### •	chlorides
 ###### •	free sulfur dioxide
