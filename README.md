@@ -19,19 +19,19 @@
 
 
 #### Project Steps:
-1.	Data Collection:
-o	Loaded the dataset using Pandas and explored its structure and content.
-2.	Data Analysis and Visualization:
-o	Conducted exploratory data analysis (EDA) to understand the distribution of variables and their impact on wine quality.
-o	Visualized relationships between the quality of wine and various chemical properties using bar plots and heatmaps.
-o	Plotted a correlation heatmap to identify the most significant features affecting wine quality.
-3.	Data Preprocessing:
-o	Handled outliers using user-defined functions to ensure that the data is clean and suitable for modeling.
-o	Applied label binarization to transform the quality ratings into binary classes (good quality vs. bad quality).
-4.	Feature Importance:
-o	Used the ExtraTreesClassifier to evaluate the importance of different features in predicting wine quality.
-5.	Modeling:
-o	Built and evaluated various classification models, including:
+##### 1.	Data Collection:
+###### o	Loaded the dataset using Pandas and explored its structure and content.
+##### 2.	Data Analysis and Visualization:
+###### o	Conducted exploratory data analysis (EDA) to understand the distribution of variables and their impact on wine quality.
+###### o	Visualized relationships between the quality of wine and various chemical properties using bar plots and heatmaps.
+###### o	Plotted a correlation heatmap to identify the most significant features affecting wine quality.
+##### 3.	Data Preprocessing:
+###### o	Handled outliers using user-defined functions to ensure that the data is clean and suitable for modeling.
+###### o	Applied label binarization to transform the quality ratings into binary classes (good quality vs. bad quality).
+##### 4.	Feature Importance:
+###### o	Used the ExtraTreesClassifier to evaluate the importance of different features in predicting wine quality.
+##### 5.	Modeling:
+###### o	Built and evaluated various classification models, including:
 	Random Forest Classifier
 	Logistic Regression
 	K-Nearest Neighbors (KNN)
