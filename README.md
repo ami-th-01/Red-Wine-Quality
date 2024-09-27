@@ -7,18 +7,18 @@
 
 #### Dataset: 
 ###### The dataset used for this project includes chemical properties of different wine samples and their corresponding quality ratings. The dataset contains 1599 observations with 12 features:
-##### •	fixed acidity
-##### •	volatile acidity
-##### •	citric acid
-##### •	residual sugar
-##### •	chlorides
-##### •	free sulfur dioxide
-##### •	total sulfur dioxide
-##### •	density
-##### •	pH
-##### •	sulphates
-##### •	alcohol
-##### •	quality (target variable)
+###### •	fixed acidity
+###### •	volatile acidity
+###### •	citric acid
+###### •	residual sugar
+###### •	chlorides
+###### •	free sulfur dioxide
+###### •	total sulfur dioxide
+###### •	density
+###### •	pH
+###### •	sulphates
+###### •	alcohol
+###### •	quality (target variable)
 
 
 #### Project Steps:
@@ -35,14 +35,14 @@
 ###### o	Used the ExtraTreesClassifier to evaluate the importance of different features in predicting wine quality.
 ##### 5.	Modeling:
 ###### o	Built and evaluated various classification models, including:
-	Random Forest Classifier
-	Logistic Regression
-	K-Nearest Neighbors (KNN)
-	Support Vector Classifier (SVC)
-	Decision Tree Classifier
-	Gaussian Naive Bayes (GNB)
-	XGBoost Classifier
-o	Compared the performance of these models using accuracy scores and confusion matrices.
+####### 	Random Forest Classifier
+####### 	Logistic Regression
+####### 	K-Nearest Neighbors (KNN)
+####### 	Support Vector Classifier (SVC)
+####### 	Decision Tree Classifier
+####### 	Gaussian Naive Bayes (GNB)
+####### 	XGBoost Classifier
+###### o	Compared the performance of these models using accuracy scores and confusion matrices.
 6.	Results:
 o	Achieved the highest accuracy with the Random Forest Classifier at approximately 89.58%.
 o	Constructed a predictive system using the trained model to classify wine quality based on user input.
