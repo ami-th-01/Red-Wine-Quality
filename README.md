@@ -3,22 +3,22 @@
 
 #### Problem Statement: A wine manufacturing company wants to assess the quality of its wine using several chemical parameters. The objective is to determine if the wine quality is satisfactory based on these chemical properties, aiding in the decision-making process for creating a new brand.
 
-### Dataset: The dataset used for this project includes chemical properties of different wine samples and their corresponding quality ratings. The dataset contains 1599 observations with 12 features:
-•	fixed acidity
-•	volatile acidity
-•	citric acid
-•	residual sugar
-•	chlorides
-•	free sulfur dioxide
-•	total sulfur dioxide
-•	density
-•	pH
-•	sulphates
-•	alcohol
-•	quality (target variable)
+#### Dataset: The dataset used for this project includes chemical properties of different wine samples and their corresponding quality ratings. The dataset contains 1599 observations with 12 features:
+##### •	fixed acidity
+##### •	volatile acidity
+##### •	citric acid
+##### •	residual sugar
+##### •	chlorides
+##### •	free sulfur dioxide
+##### •	total sulfur dioxide
+##### •	density
+##### •	pH
+##### •	sulphates
+##### •	alcohol
+##### •	quality (target variable)
 
 
-### Project Steps:
+#### Project Steps:
 1.	Data Collection:
 o	Loaded the dataset using Pandas and explored its structure and content.
 2.	Data Analysis and Visualization:
