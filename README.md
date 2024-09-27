@@ -7,9 +7,9 @@
 
 #### Dataset: 
 ###### The dataset used for this project includes chemical properties of different wine samples and their corresponding quality ratings. The dataset contains 1599 observations with 12 features:
-######    •	fixed acidity
-######    •	volatile acidity
-######    •	citric acid
+###### •	fixed acidity
+###### •	volatile acidity
+###### •	citric acid
 ###### •	residual sugar
 ###### •	chlorides
 ###### •	free sulfur dioxide
@@ -43,16 +43,20 @@
 ###### 	Gaussian Naive Bayes (GNB)
 ###### 	XGBoost Classifier
 ###### o	Compared the performance of these models using accuracy scores and confusion matrices.
-6.	Results:
-o	Achieved the highest accuracy with the Random Forest Classifier at approximately 89.58%.
-o	Constructed a predictive system using the trained model to classify wine quality based on user input.
-7.	Conclusion:
-o	The project demonstrates that certain chemical properties, such as alcohol content and sulphates, have a significant impact on wine quality.
-o	The developed model can assist the company in quality control and product development decisions.
-Future Work:
-•	Explore additional machine learning techniques such as ensemble methods to further improve prediction accuracy.
-•	Experiment with different feature engineering methods and hyperparameter tuning for better model performance.
-•	Extend the analysis to include other wine varieties and create a comprehensive wine quality prediction system.
-Technologies Used:
-•	Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib)
-•	Machine Learning algorithms: Random Forest, Logistic Regression, SVM, etc.
+
+#### 6.	Results:
+###### o	Achieved the highest accuracy with the Random Forest Classifier at approximately 89.58%.
+###### o	Constructed a predictive system using the trained model to classify wine quality based on user input.
+
+#### 7.	Conclusion:
+###### o	The project demonstrates that certain chemical properties, such as alcohol content and sulphates, have a significant impact on wine quality.
+###### o	The developed model can assist the company in quality control and product development decisions.
+
+#### Future Work:
+###### •	Explore additional machine learning techniques such as ensemble methods to further improve prediction accuracy.
+###### •	Experiment with different feature engineering methods and hyperparameter tuning for better model performance.
+###### •	Extend the analysis to include other wine varieties and create a comprehensive wine quality prediction system.
+
+#### Technologies Used:
+###### •	Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib)
+###### •	Machine Learning algorithms: Random Forest, Logistic Regression, SVM, etc.
