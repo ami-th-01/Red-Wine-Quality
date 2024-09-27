@@ -61,3 +61,5 @@
 ### Technologies Used:
 ###### •	Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib)
 ###### •	Machine Learning algorithms: Random Forest, Logistic Regression, SVM, etc.
+###### •	Interactive Visualization: Developed Tableau dashboards for insights into wine quality and business optimization.
+
